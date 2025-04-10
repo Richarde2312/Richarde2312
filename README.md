@@ -7,7 +7,6 @@
 - 💡 Quick learner and proactive problem-solver
 - 🛠️ Enjoy crafting responsive landing pages and building custom desktop computers
 - 🤝 Strong team player with excellent communication skills
-- 📍 Based in Trinidad and Tobago
 
 ## 🧰 Tech Stack
 
