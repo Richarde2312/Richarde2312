@@ -10,7 +10,7 @@
 
 ## 🧰 Tech Stack
 
-- **Languages:** Java, Python, C++, HTML, CSS, SQL
+- **Languages:** Java, Python, C++, HTML, CSS, SQL, PHP
 - **Tools & Platforms:** Visual Studio Code, Cisco Packet Tracer, GNS3, Canva, MailChimp
 - **Skills:** Web development, ML-based applications, database management, desktop PC builds
 
