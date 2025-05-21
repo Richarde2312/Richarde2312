@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Richardé Wihby
 
-🎓 Recent Information Technology graduate from the University of the West Indies (UWI), passionate about building real-world tech solutions. I specialize in software development, network management, and cybersecurity, with a strong foundation in Java, Python, and web technologies.
+🎓 I’m a Information Technology graduate from the University of the West Indies with a passion for problem-solving and innovation. My academic and project experience spans software development, networking, and cybersecurity, with hands-on skills in Java, Python, HTML/CSS, and database management.
 
 ## 💼 About Me
 
