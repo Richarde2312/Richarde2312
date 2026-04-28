@@ -25,7 +25,7 @@ tech-driven environments.
 ### 🧪 [Foliar Disease Detection App](https://github.com/Chefboyadee/Foliar-Disease-App)
 Mobile app for detecting diseases in tomato plant leaves using image processing and machine learning. Built with Python and Jupyter Notebook as part of my final year group project.
 
-### 🌐 [RouffRouff Landing Page](https://www.yonderskincare.com/)
+### 🌐 [Yonder Skincare](https://www.yonderskincare.com/)
 A sleek, responsive landing page designed to effectively showcase the services of RouffRouff Company. Tools used: Canva, MailChimp, and Get Response.
 
 ## 📫 Contact Me
