@@ -8,10 +8,18 @@ I am currently preparing for the **CompTIA Security+ (SY0-701)** certification a
 
 ---
 
+## 🌐 Connect With Me
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/richarde-wihby
+* 💻 GitHub: https://github.com/Richarde2312
+* 📧 Email: [richardewihby23@gmail.com](mailto:richardewihby23@gmail.com)
+
+---
+
 ## 🚀 About Me
 
-* 💼 Computer Technician at UTT Pt. Lisas (April 2026 – Present)
-* 🔐 Currently studying for **CompTIA Security+**
+* 💼 Computer Technician at UTT Pt. Lisas *(April 2026 – Present)*
+* 🔐 Currently studying for **CompTIA Security+ (SY0-701)**
 * 🖥️ Experience with Windows 10/11 and Ubuntu Linux
 * 🌐 Interested in Networking and Cybersecurity
 * 🛠️ Enjoy troubleshooting systems and solving technical problems
@@ -23,7 +31,8 @@ I am currently preparing for the **CompTIA Security+ (SY0-701)** certification a
 
 ### Operating Systems
 
-* Windows 10 & Windows 11
+* Windows 10
+* Windows 11
 * Ubuntu Linux
 * Dual Boot Configuration
 * Operating System Deployment
@@ -59,7 +68,7 @@ I am currently preparing for the **CompTIA Security+ (SY0-701)** certification a
 * CSS
 * PHP
 
-### Cybersecurity (Currently Learning)
+### Cybersecurity *(Currently Learning)*
 
 * Security Fundamentals
 * Network Security
@@ -78,14 +87,13 @@ I am currently preparing for the **CompTIA Security+ (SY0-701)** certification a
 *April 2026 – Present*
 
 * Configure, install, and troubleshoot Windows and Ubuntu operating systems.
-* Deploy operating systems using ISO images and bootable media.
-* Support dual-boot Windows and Linux environments.
-* Configure file sharing between Windows and Ubuntu systems.
-* Perform hardware diagnostics including PSU and storage testing.
-* Configure networking infrastructure including RJ45 cables and keystone jacks.
+* Create bootable USB drives and deploy operating systems using ISO images and network-based installation methods.
+* Support dual-boot Windows and Linux environments and configure file sharing between operating systems.
+* Perform hardware diagnostics including testing power supplies and storage devices.
+* Configure networking infrastructure including RJ45 cables (T568B standard) and Cat5e/Cat6 keystone jacks.
 * Configure and troubleshoot Cisco routers.
-* Manage and monitor computer labs using Veyon Master.
-* Format and maintain storage devices using command-line utilities.
+* Monitor and manage computer laboratories using Veyon Master.
+* Format and maintain storage devices using command-line tools.
 * Gain hands-on experience with Arduino and embedded systems.
 
 ---
@@ -94,28 +102,48 @@ I am currently preparing for the **CompTIA Security+ (SY0-701)** certification a
 
 *2024 – Present*
 
-* Build and configure custom desktop computers.
-* Install and configure Windows 10/11 environments.
-* Troubleshoot hardware and software issues.
-* Configure Microsoft 365 applications.
-* Provide technical support for clients.
+* Built and configured custom desktop PCs.
+* Installed and configured Windows 10/11 environments.
+* Troubleshot hardware and software issues.
+* Configured Microsoft 365 applications.
+* Provided technical support for clients.
 
 ---
 
 ## 📂 Featured Projects
 
-### 🌱 Plant Disease Detection Application
+### 🌱 Foliar Disease Detection Application
 
-* Developed a Python-based machine learning application to identify tomato leaf diseases using image data.
-* Built and tested machine learning workflows using Jupyter Notebook.
-* Strengthened skills in Python, data handling, and problem-solving.
+A machine learning application developed in Python to identify tomato leaf diseases using image data.
+
+**Technologies Used**
+
+* Python
+* Jupyter Notebook
+* Machine Learning
+* Image Processing
+
+**Repository:**
+👉 https://github.com/Chefboyadee/Foliar-Disease-App
+
+---
+
+### 🎮 Arduino Projects
+
+Projects developed while learning embedded systems and electronics:
+
+* Reaction Time Game
+* Simon Game
+* Breadboard and resistor circuits
+* Exploring future projects such as Snake Game
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science (BSc) in Information Technology**
-University of the West Indies, St. Augustine
+### Bachelor of Science (BSc) in Information Technology
+
+**University of the West Indies, St. Augustine**
 2021 – 2024
 
 * GPA: 2.91
@@ -147,10 +175,14 @@ I am particularly interested in:
 
 ---
 
-### 📫 Connect With Me
+## 📈 Currently Learning
 
-* Email: **[richardewihby23@gmail.com](mailto:richardewihby23@gmail.com)**
-* GitHub: **github.com/Richarde2312**
-* LinkedIn: *(Add your LinkedIn URL here)*
+* CompTIA Security+ (SY0-701)
+* Linux Administration
+* Windows System Administration
+* Network Security Concepts
+* Cybersecurity Fundamentals
 
-⭐ Thanks for visiting my profile!
+---
+
+⭐ Feel free to connect with me on LinkedIn or explore my repositories as I continue my journey in IT and Cybersecurity.
