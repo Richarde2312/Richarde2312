@@ -110,12 +110,6 @@ I am currently preparing for the **CompTIA Security+ (SY0-701)** certification a
 * Built and tested machine learning workflows using Jupyter Notebook.
 * Strengthened skills in Python, data handling, and problem-solving.
 
-### 🎮 Arduino Projects
-
-* Built Reaction Time and Simon Game projects.
-* Explored embedded systems concepts including resistors, breadboards, and microcontrollers.
-* Currently researching and developing additional Arduino projects.
-
 ---
 
 ## 🎓 Education
