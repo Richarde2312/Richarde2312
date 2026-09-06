@@ -60,14 +60,6 @@ My repositories are a place for me to **build, learn, document, and improve**.
 
 ---
 
-## 📈 GitHub Stats
-
-![Richardé's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Richarde2312&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Richarde2312&layout=compact&hide_border=true)
-
----
-
 ## 🤝 Connect With Me
 
 - **GitHub:** [Richarde2312](https://github.com/Richarde2312)
